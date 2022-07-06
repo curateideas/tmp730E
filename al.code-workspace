@@ -11,6 +11,9 @@
                     },
                     {
                         "path":  "Default Test App Name"
+                    },
+                    {
+                        "path":  "My App"
                     }
                 ],
     "settings":  {
