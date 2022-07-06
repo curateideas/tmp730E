@@ -1,8 +1,16 @@
-{
-    "folders": [
-        {
-            "path": ".AL-Go"
-        }
-    ],
-    "settings": {}
+﻿{
+    "folders":  [
+                    {
+                        "path":  ".AL-Go"
+                    },
+                    {
+                        "path":  "Default App Name"
+                    },
+                    {
+                        "path":  "Default Base App Name"
+                    }
+                ],
+    "settings":  {
+
+                 }
 }
